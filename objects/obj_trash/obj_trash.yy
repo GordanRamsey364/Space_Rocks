@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ruk",
+  "name": "obj_trash",
   "spriteId": {
-    "name": "spr_medium_rock",
-    "path": "sprites/spr_medium_rock/spr_medium_rock.yy",
+    "name": "spr_trash",
+    "path": "sprites/spr_trash/spr_trash.yy",
   },
   "solid": false,
   "visible": true,
